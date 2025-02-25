@@ -1,0 +1,5 @@
+Identify binding hotspots on the target receptor.
+Use Blueprint Builder or select a scaffold from PDB.
+Apply RosettaDesign to optimize the interface.
+Use RosettaDock for docking and energy minimization.
+Validate using Rosetta scoring functions or MD simulations.
